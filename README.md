@@ -65,6 +65,11 @@ iv)opinion_h1n1_risk,
 v)opinion_h1n1_vacc_effective.
 
 
+AUTHOR'S INFO
+
+oderataylor@gmail.com
+
+
 
 
 
